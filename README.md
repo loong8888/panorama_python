@@ -7,7 +7,7 @@ A simiple panorama project, which take a video as input and output a panorama im
     -Anaconda > 5.0 
     -Opencv > 3.1   
 
-### some not that basic functions being called from 3rd Lib
+### some functions being used
 
     -scipy.ndimage.filters.gaussian_filter
     -numpy.argsort
